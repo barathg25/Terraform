@@ -1,4 +1,4 @@
-install terraform
+# install terraform
 
 sudo apt-get install unzip
 
